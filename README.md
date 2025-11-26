@@ -1,7 +1,15 @@
-# practice
-محاسبه ضرب 2*3 با استفاده از حلقه تو در تو :
+# Nested Loop Multiplication
 
-این یک پروژه ساده و آموزشی است که نحوه محاسبه حاصل ضرب 2 در 3 را با استفاده ازحلقه های تو در تو نشان میدهد.هدف اصلی این کد ، درک بهتر نحوه کار حلقه ها و تقویت مهارت های پایه ای در الگوریتم نویسی است.
-زبان مورد استفاده :#c
+A C# program that calculates multiplication of 2 × 3 using nested loops.
 
-اگر ایده ای برای بهبود این کد دارید ، pull request کنید.
+## Features
+- Demonstrates nested loop functionality
+- Calculates basic multiplication using loops
+- Simple and educational implementation
+
+## Technologies
+- C#
+- Console Application
+
+## Usage
+Run the program to see the result of 2 × 3 calculated through nested loops.
